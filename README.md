@@ -1,0 +1,8 @@
+  PROJECT TITLE
+# AirBnB clone - The console
+
+
+  AUTHORS
+
+# NYARKO PHILIP ABEL
+# OLEKWA JOHN 
